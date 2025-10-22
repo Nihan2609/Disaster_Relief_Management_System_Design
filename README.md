@@ -10,8 +10,8 @@ Designed to manage disaster relief operations, coordinate volunteers, track requ
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<a href="[https://www.figma.com/proto/your-web-figma-link-here](https://www.figma.com/design/7mJrgVIo5jIipgDL3LB8ni/DRMS-Website-Version?node-id=0-1&t=nMRb15HxTHxtRh6L-1)">
-<img src="design/Login.png" alt="Web Prototype Preview" width="350" style="border-radius:12px;">
+<a href="https://www.figma.com/design/7mJrgVIo5jIipgDL3LB8ni/DRMS-Website-Version?node-id=0-1&t=nMRb15HxTHxtRh6L-1">
+<img src="Login.png" alt="Web Prototype Preview" width="350" style="border-radius:12px;">
 <br><br>
 <b>💻 Web Version</b>
 <br>
