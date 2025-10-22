@@ -1,4 +1,4 @@
-# 🎨 Disaster Relief Management System — Figma Design Prototype
+# 🎨 Disaster Relief Management System_Figma Design Prototype
 
 A **comprehensive UI/UX design** for the **Disaster Relief Management System**, including **Web** and **Mobile** versions.  
 Designed to manage disaster relief operations, coordinate volunteers, track requests and resources, and handle donations with **ease and clarity**.
@@ -20,7 +20,7 @@ Designed to manage disaster relief operations, coordinate volunteers, track requ
 </td>
 <td align="center" width="50%">
 <a href="https://www.figma.com/design/NAIaoQ60tByhlE9iSts1mp/DRMS-Mobile-Version?node-id=2-20347&t=w61R9rSwU8gQJMvO-1">
-<img src="Welcome Page" alt="Mobile Prototype Preview" width="180" style="border-radius:12px;">
+<img src="Welcome Page.png" alt="Mobile Prototype Preview" width="180" style="border-radius:12px;">
 <br><br>
 <b>📱 Mobile Version</b>
 <br>
@@ -31,20 +31,6 @@ Designed to manage disaster relief operations, coordinate volunteers, track requ
 </table>
 
 <p align="center"><i>👆 Click the images above to explore the interactive prototypes on Figma.</i></p>
-
----
-
-## 🗂️ Repository Structure
-
-```
-Disaster_Relief_Management_System_Design/
-├── design/
-│   ├── web-preview.png                 # Web version preview
-│   ├── mobile-preview.png              # Mobile version preview
-│   ├── disaster-relief-web.fig         # Web Figma source file (optional)
-│   └── disaster-relief-mobile.fig      # Mobile Figma source file (optional)
-└── README.md
-```
 
 ---
 
@@ -140,16 +126,6 @@ This prototype demonstrates:
 
 ---
 
-## 🧠 Notes
-
-- `.fig` files can be imported into Figma (**File → Import**) for editing
-- Live prototype links allow full exploration of **screen transitions and interactions**
-- All assets follow **consistent design guidelines** for icons, colors, and typography
-- Designed with **accessibility** in mind (WCAG 2.1 AA compliance)
-- Prototypes include sample data for realistic demonstration
-
----
-
 ## 🔜 Future Enhancements
 
 - [ ] Dark mode design variant
@@ -169,10 +145,9 @@ You may **view, reference, and modify** it, but please provide **attribution**.
 
 ## 👤 Contact
 
-**🖋️ Author:** [Your Name]  
-**📧 Email:** your.email@example.com  
-**💼 LinkedIn:** [Your Profile]  
-**📅 Created:** October 2025
+**🖋️ Author:** [nihan]  
+**📧 Email:** extremenihan@gmail.com  
+**📅 Created:** August 2025
 
 ---
 
