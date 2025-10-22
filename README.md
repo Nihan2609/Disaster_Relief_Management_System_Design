@@ -19,8 +19,8 @@ Designed to manage disaster relief operations, coordinate volunteers, track requ
 </a>
 </td>
 <td align="center" width="50%">
-<a href="https://www.figma.com/proto/your-mobile-figma-link-here">
-<img src="design/mobile-preview.png" alt="Mobile Prototype Preview" width="180" style="border-radius:12px;">
+<a href="https://www.figma.com/design/NAIaoQ60tByhlE9iSts1mp/DRMS-Mobile-Version?node-id=2-20347&t=w61R9rSwU8gQJMvO-1">
+<img src="Welcome Page" alt="Mobile Prototype Preview" width="180" style="border-radius:12px;">
 <br><br>
 <b>📱 Mobile Version</b>
 <br>
